@@ -1,0 +1,23 @@
+html, body { height: 100%; margin: 0; padding: 0; }
+
+#header {
+  /* background-color: green; */
+  height: 7rem;
+}
+
+#body {
+  height: 52rem;
+}
+
+#body > .lcolumn {
+  /* background-color: blueviolet; */
+}
+
+#body > .bcolumn {
+  /* background-color: orangered; */
+}
+
+#footer {
+  /* background-color: chartreuse; */
+  height: 4rem;
+}
